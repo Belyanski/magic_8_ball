@@ -55,7 +55,7 @@ python main.py
 ```
 sudo nano /etc/systemd/system/magic_ball.service # Для юнита допустимо любое другое название
 ```
-Запишите следующие код из листинга:
+Запишите следующий код из листинга:
 ```
 [Unit]
 Description=Telegram Magic 8 Ball
